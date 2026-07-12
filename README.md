@@ -1,4 +1,4 @@
-# Perspective Calculator v1.0a
+# Perspective Calculator v1.1a
 
 **Entropy Studio** · VFX Production Tool
 
